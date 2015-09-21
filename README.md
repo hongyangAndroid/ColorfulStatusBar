@@ -16,3 +16,26 @@ StatusBarCompat.compat(this);
 ```java
 StatusBarCompat.compat(this, 0xFFFF0000);
 ```
+
+## 效果图
+
+###默认效果
+
+* 4.4
+
+<img src="status_bar_03.gif" width="320px" />
+
+* 5.x
+
+<img src="status_bar_05.gif" width="320px" />
+
+###指定颜色
+
+
+* 4.4
+
+<img src="status_bar_10.gif" width="320px" />
+
+* 5.x
+
+<img src="status_bar_11.gif" width="320px" />
