@@ -25,9 +25,15 @@ StatusBarCompat.compat(this, 0xFFFF0000);
 
 <img src="status_bar_03.gif" width="320px" />
 
+* 如果是banner
+
+<img src="lalala.gif" width="320px" />
+
 * 5.x
 
 <img src="status_bar_05.gif" width="320px" />
+
+
 
 ###指定颜色
 
