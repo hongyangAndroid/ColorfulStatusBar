@@ -5,7 +5,7 @@ Android app状态栏变色。
 
 ## 用法
 
-Activiy onCreate中添加：
+Activiy onCreate中调用`setContentView()`后添加：
 
 ```java
 StatusBarCompat.compat(this);
