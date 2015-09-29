@@ -44,6 +44,7 @@ public class StatusBarCompat
                 statusBarView.setBackgroundColor(color);
                 return;
             }
+            statusBarView = new View(activity);
             ViewGroup.LayoutParams lp = new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,
                     getStatusBarHeight(activity));
             statusBarView.setBackgroundColor(color);
